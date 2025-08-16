@@ -1,0 +1,13 @@
+{
+    "grid_width": 50,
+    "grid_height": 50,
+    "grid_depth": 15,
+    "initial_food_density": 0.7,
+    "simulation_ticks": 500,
+    "initial_zooplankton_count": 50,
+    "initial_small_fish_count": 5,
+    "plankton_diffusion_rate": 0.05,
+    "plankton_max_growth_rate": 0.1,
+    "disease_threshold": 15,
+    "disease_chance": 0.08755048186798324
+}
