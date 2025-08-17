@@ -1,0 +1,14 @@
+{
+    "grid_width": 50,
+    "grid_height": 50,
+    "grid_depth": 15,
+    "initial_food_density": 0.7,
+    "simulation_ticks": 500,
+    "initial_zooplankton_count": 1730.221782011175,
+    "initial_small_fish_count": 104.94801992700405,
+    "initial_crab_count": 100,
+    "plankton_diffusion_rate": 0.05,
+    "plankton_max_growth_rate": 0.440324176880185,
+    "disease_threshold": 5073.321943778413,
+    "disease_chance": 0.4
+}

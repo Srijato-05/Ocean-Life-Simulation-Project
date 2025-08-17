@@ -1,0 +1,83 @@
+--- Iteration 6/50 ---
+  P 1: Score=195     (Pry:   0, Prd:   0, Crb:   0) | Env: IZC:1391, ISFC:10 | Prey: RT:29, CCT:7, SC:0.55, DT:2000, DC:0.10, ER:0.36, ECF:4.72, ML:800.00 | Pred: PMGR:0.46, ICC:5, MR:0.46, RT:29, VR:19.26, PR:2.98, ETE:0.63, OP:0.58, RCP:30, HSC:0.78, SP:9, MA:52, JHM:0.50, PST:64, ML:800.00, MRS:0.00, RTS:0, ERS:0.00, ECFS:0.00, MLS:0.00
+  P 2: Score=428     (Pry:   0, Prd:   0, Crb:   0) | Env: IZC:1173, ISFC:39 | Prey: RT:20, CCT:9, SC:0.44, DT:2000, DC:0.10, ER:0.21, ECF:4.94, ML:800.00 | Pred: PMGR:0.74, ICC:5, MR:0.05, RT:20, VR:8.11, PR:1.54, ETE:0.72, OP:0.16, RCP:53, HSC:0.63, SP:27, MA:46, JHM:0.78, PST:175, ML:800.00, MRS:0.00, RTS:0, ERS:0.00, ECFS:0.00, MLS:0.00
+  P 3: Score=305     (Pry:   0, Prd:   0, Crb:   0) | Env: IZC:1500, ISFC:57 | Prey: RT:22, CCT:13, SC:0.38, DT:2000, DC:0.10, ER:0.32, ECF:6.00, ML:546.00 | Pred: PMGR:0.68, ICC:36, MR:0.42, RT:22, VR:16.54, PR:1.80, ETE:0.78, OP:0.52, RCP:44, HSC:0.80, SP:30, MA:52, JHM:0.83, PST:199, ML:546.00, MRS:0.00, RTS:0, ERS:0.00, ECFS:0.00, MLS:0.00
+  P 4: Score=253     (Pry:   0, Prd:   0, Crb:   0) | Env: IZC:1451, ISFC:29 | Prey: RT:34, CCT:12, SC:0.17, DT:2000, DC:0.10, ER:0.36, ECF:6.00, ML:476.00 | Pred: PMGR:0.87, ICC:15, MR:0.05, RT:34, VR:19.10, PR:2.51, ETE:0.86, OP:0.72, RCP:79, HSC:0.75, SP:6, MA:38, JHM:0.54, PST:85, ML:476.00, MRS:0.00, RTS:0, ERS:0.00, ECFS:0.00, MLS:0.00
+  P 5: Score=186     (Pry:   0, Prd:   0, Crb:   0) | Env: IZC:1253, ISFC:65 | Prey: RT:23, CCT:14, SC:0.46, DT:2000, DC:0.10, ER:0.33, ECF:3.70, ML:400.00 | Pred: PMGR:0.71, ICC:21, MR:0.05, RT:23, VR:17.30, PR:1.33, ETE:0.76, OP:0.51, RCP:52, HSC:0.71, SP:13, MA:43, JHM:0.50, PST:69, ML:400.00, MRS:0.00, RTS:0, ERS:0.00, ECFS:0.00, MLS:0.00
+  P 6: Score=0       (Pry:2087, Prd:1931, Crb:  17) | Env: IZC:1231, ISFC:47 | Prey: RT:20, CCT:6, SC:0.17, DT:2000, DC:0.10, ER:0.41, ECF:2.62, ML:731.00 | Pred: PMGR:0.82, ICC:19, MR:0.05, RT:20, VR:12.76, PR:2.82, ETE:0.67, OP:0.57, RCP:29, HSC:0.59, SP:19, MA:46, JHM:0.49, PST:126, ML:731.00, MRS:0.00, RTS:0, ERS:0.00, ECFS:0.00, MLS:0.00
+  P 7: Score=291     (Pry:   0, Prd:   0, Crb:   0) | Env: IZC:1500, ISFC:100 | Prey: RT:32, CCT:8, SC:0.60, DT:2000, DC:0.10, ER:0.40, ECF:6.00, ML:625.00 | Pred: PMGR:0.59, ICC:50, MR:0.09, RT:32, VR:15.25, PR:2.65, ETE:0.87, OP:0.58, RCP:35, HSC:0.57, SP:27, MA:32, JHM:0.78, PST:106, ML:625.00, MRS:0.00, RTS:0, ERS:0.00, ECFS:0.00, MLS:0.00
+  P 8: Score=369     (Pry:   0, Prd:   0, Crb:   0) | Env: IZC:631, ISFC:37 | Prey: RT:20, CCT:15, SC:0.43, DT:2000, DC:0.10, ER:0.40, ECF:5.07, ML:800.00 | Pred: PMGR:0.48, ICC:26, MR:0.05, RT:20, VR:16.23, PR:2.63, ETE:0.82, OP:0.76, RCP:53, HSC:0.72, SP:27, MA:22, JHM:0.46, PST:156, ML:800.00, MRS:0.00, RTS:0, ERS:0.00, ECFS:0.00, MLS:0.00
+  P 9: Score=73804   (Pry:2113, Prd:   4, Crb:  45) | Env: IZC:1500, ISFC:82 | Prey: RT:20, CCT:6, SC:0.39, DT:2000, DC:0.10, ER:0.30, ECF:3.93, ML:509.00 | Pred: PMGR:0.85, ICC:32, MR:0.05, RT:20, VR:8.34, PR:2.38, ETE:0.79, OP:0.13, RCP:70, HSC:0.58, SP:34, MA:47, JHM:0.39, PST:73, ML:509.00, MRS:0.00, RTS:0, ERS:0.00, ECFS:0.00, MLS:0.00
+  P10: Score=0       (Pry:1975, Prd:  40, Crb:   8) | Env: IZC:1500, ISFC:21 | Prey: RT:20, CCT:13, SC:0.23, DT:2000, DC:0.10, ER:0.35, ECF:4.07, ML:630.00 | Pred: PMGR:0.61, ICC:11, MR:0.05, RT:20, VR:12.79, PR:1.03, ETE:0.83, OP:0.80, RCP:41, HSC:0.68, SP:9, MA:17, JHM:0.41, PST:78, ML:630.00, MRS:0.00, RTS:0, ERS:0.00, ECFS:0.00, MLS:0.00
+  P11: Score=0       (Pry:2096, Prd: 307, Crb:   5) | Env: IZC:1500, ISFC:59 | Prey: RT:20, CCT:6, SC:0.26, DT:2000, DC:0.10, ER:0.50, ECF:6.00, ML:720.00 | Pred: PMGR:0.71, ICC:18, MR:0.12, RT:20, VR:16.33, PR:1.35, ETE:0.79, OP:0.33, RCP:54, HSC:0.60, SP:11, MA:55, JHM:0.78, PST:66, ML:720.00, MRS:0.00, RTS:0, ERS:0.00, ECFS:0.00, MLS:0.00
+  P12: Score=195462  (Pry:2012, Prd: 481, Crb:  58) | Env: IZC:1500, ISFC:28 | Prey: RT:24, CCT:7, SC:0.23, DT:2000, DC:0.10, ER:0.34, ECF:5.04, ML:798.00 | Pred: PMGR:0.38, ICC:29, MR:0.05, RT:24, VR:19.90, PR:1.50, ETE:0.62, OP:0.52, RCP:26, HSC:0.71, SP:19, MA:32, JHM:0.62, PST:141, ML:798.00, MRS:0.00, RTS:0, ERS:0.00, ECFS:0.00, MLS:0.00
+  P13: Score=2445    (Pry:3138, Prd:   9, Crb:   8) | Env: IZC:1394, ISFC:84 | Prey: RT:21, CCT:15, SC:0.19, DT:2000, DC:0.10, ER:0.45, ECF:4.28, ML:799.00 | Pred: PMGR:0.68, ICC:18, MR:0.30, RT:21, VR:10.71, PR:2.35, ETE:0.63, OP:0.60, RCP:76, HSC:0.89, SP:23, MA:60, JHM:0.64, PST:197, ML:799.00, MRS:0.00, RTS:0, ERS:0.00, ECFS:0.00, MLS:0.00
+  P14: Score=94      (Pry:   0, Prd:   0, Crb:   0) | Env: IZC:1305, ISFC:59 | Prey: RT:20, CCT:10, SC:0.29, DT:2000, DC:0.10, ER:0.10, ECF:3.98, ML:675.00 | Pred: PMGR:0.70, ICC:13, MR:0.34, RT:20, VR:14.30, PR:2.28, ETE:0.61, OP:0.27, RCP:28, HSC:0.69, SP:8, MA:53, JHM:0.48, PST:89, ML:675.00, MRS:0.00, RTS:0, ERS:0.00, ECFS:0.00, MLS:0.00
+  P15: Score=0       (Pry:1985, Prd: 596, Crb:  13) | Env: IZC:1338, ISFC:80 | Prey: RT:36, CCT:13, SC:0.57, DT:2000, DC:0.10, ER:0.43, ECF:4.30, ML:700.00 | Pred: PMGR:0.90, ICC:7, MR:0.05, RT:36, VR:15.69, PR:1.58, ETE:0.69, OP:0.53, RCP:54, HSC:0.65, SP:38, MA:50, JHM:0.88, PST:138, ML:700.00, MRS:0.00, RTS:0, ERS:0.00, ECFS:0.00, MLS:0.00
+  P16: Score=299     (Pry:   0, Prd:   0, Crb:   0) | Env: IZC:1243, ISFC:34 | Prey: RT:20, CCT:8, SC:0.46, DT:2000, DC:0.10, ER:0.31, ECF:5.10, ML:551.00 | Pred: PMGR:0.40, ICC:34, MR:0.18, RT:20, VR:18.46, PR:1.60, ETE:0.71, OP:0.58, RCP:28, HSC:0.72, SP:22, MA:35, JHM:0.60, PST:129, ML:551.00, MRS:0.00, RTS:0, ERS:0.00, ECFS:0.00, MLS:0.00
+  P17: Score=97374   (Pry:2007, Prd:  11, Crb:  28) | Env: IZC:1455, ISFC:78 | Prey: RT:20, CCT:14, SC:0.54, DT:2000, DC:0.10, ER:0.39, ECF:3.60, ML:621.00 | Pred: PMGR:0.90, ICC:19, MR:0.05, RT:20, VR:10.62, PR:1.51, ETE:0.85, OP:0.56, RCP:28, HSC:0.89, SP:38, MA:47, JHM:0.71, PST:144, ML:621.00, MRS:0.00, RTS:0, ERS:0.00, ECFS:0.00, MLS:0.00
+  P18: Score=305     (Pry:   0, Prd:   0, Crb:   0) | Env: IZC:858, ISFC:52 | Prey: RT:23, CCT:12, SC:0.55, DT:2000, DC:0.10, ER:0.36, ECF:4.20, ML:590.00 | Pred: PMGR:0.80, ICC:50, MR:0.44, RT:23, VR:17.32, PR:1.19, ETE:0.61, OP:0.41, RCP:42, HSC:0.71, SP:29, MA:20, JHM:0.83, PST:130, ML:590.00, MRS:0.00, RTS:0, ERS:0.00, ECFS:0.00, MLS:0.00
+  P19: Score=0       (Pry:2023, Prd:1969, Crb:  13) | Env: IZC:1500, ISFC:42 | Prey: RT:20, CCT:6, SC:0.12, DT:2000, DC:0.10, ER:0.41, ECF:3.61, ML:776.00 | Pred: PMGR:0.56, ICC:16, MR:0.05, RT:20, VR:16.99, PR:1.90, ETE:0.63, OP:0.39, RCP:38, HSC:0.63, SP:22, MA:47, JHM:0.49, PST:63, ML:776.00, MRS:0.00, RTS:0, ERS:0.00, ECFS:0.00, MLS:0.00
+  P20: Score=440     (Pry:   0, Prd:   0, Crb:   0) | Env: IZC:1353, ISFC:53 | Prey: RT:20, CCT:10, SC:0.59, DT:2000, DC:0.10, ER:0.35, ECF:3.57, ML:715.00 | Pred: PMGR:0.89, ICC:8, MR:0.05, RT:20, VR:12.70, PR:1.26, ETE:0.83, OP:0.15, RCP:28, HSC:0.60, SP:33, MA:25, JHM:0.56, PST:99, ML:715.00, MRS:0.00, RTS:0, ERS:0.00, ECFS:0.00, MLS:0.00
+  --- End of Iteration 6: Best score so far: 195462 ---
+    Current Best Simulation Config:
+      grid_width: 50
+      grid_height: 50
+      grid_depth: 15
+      initial_food_density: 0.7000
+      simulation_ticks: 500
+      initial_zooplankton_count: 1500
+      initial_small_fish_count: 27.8975
+      initial_crab_count: 29.4551
+      plankton_diffusion_rate: 0.0500
+      plankton_max_growth_rate: 0.3772
+      disease_threshold: 3110.3074
+      disease_chance: 0.0500
+
+    Current Best Fauna Config:
+      Zooplankton:
+        species_name: Zooplankton
+        initial_energy: 10.0000
+        metabolic_rate: 0.3521
+        movement_cost: 0.8000
+        size: 1.0000
+        eating_rate: 1.0000
+        energy_conversion_factor: 8.0000
+        reproduction_threshold: 30
+        max_density_per_cell: 3
+        carrying_capacity_threshold: 7.1300
+        starvation_chance: 0.2296
+        disease_threshold: 2000
+        disease_chance: 0.1000
+        max_lifespan: 150
+      SmallFish:
+        species_name: SmallFish
+        initial_energy: 25.0000
+        metabolic_rate: 0.5389
+        movement_cost: 0.6000
+        size: 5.0000
+        vision_radius: 19.9041
+        predation_range: 1.4972
+        energy_transfer_efficiency: 0.6233
+        reproduction_threshold: 40
+        overcrowding_penalty: 0.5219
+        max_density_per_cell: 2
+        reproduction_cooldown_period: 26.2020
+        prey_scarcity_threshold: 140.7535
+        hunt_success_chance: 0.7117
+        satiation_period: 19.1697
+        maturity_age: 32.1372
+        juvenile_hunt_modifier: 0.6220
+        refuge_vision_modifier: 0.5000
+        max_lifespan: 411
+      Crab:
+        species_name: Crab
+        initial_energy: 15.0000
+        metabolic_rate: 0.0500
+        movement_cost: 0.1000
+        size: 2.0000
+        eating_rate: 0.3416
+        energy_conversion_factor: 5.0355
+        reproduction_threshold: 24
+        max_lifespan: 798
+  ----------------------------------------------------
