@@ -1,0 +1,61 @@
+{
+    "grid_width": 50,
+    "grid_height": 50,
+    "grid_depth": 15,
+    "initial_food_density": 0.7,
+    "simulation_ticks": 500,
+    "bootstrap_period": 60,
+    "bootstrap_metabolic_modifier": 0.25,
+    "cleanup_interval": 10,
+    "threat_update_interval": 5,
+
+    "initial_agent_capacity": 25000,
+    "absolute_max_agents": 75000,
+    
+    "environment_generation": {
+        "deep_sea_depth_fraction": 0.66,
+        "polar_zone_width_fraction": 0.25,
+        "num_coral_reefs": 3,
+        "reef_max_depth_fraction": 0.2,
+        "num_refuges": 20,
+        "refuge_size": 2
+    },
+
+    "initial_zooplankton_count": 5000,
+    "initial_smallfish_count": 400,
+    "initial_seal_count": 10,
+    "initial_seaturtle_count": 30,
+    "initial_crab_count": 100,
+    
+    "plankton_diffusion_rate": 0.05,
+    "plankton_max_growth_rate": 1.0,
+    "low_plankton_threshold": 0.2,
+    
+    "refuge_hunt_debuff": 0.4,
+    
+    "event_chance": 0.01,
+    "event_duration": 50,
+    "plankton_bloom_modifier": 2.0,
+    "disease_zone_modifier": 1.5,
+
+    "marine_snow_decay_rate": 0.99,
+    "marine_snow_sinking_factor": 0.9,
+    "snow_to_plankton_conversion": 0.01,
+    
+    "scoring": {
+        "survival_bonus": 100000,
+        "resilience_prey": 25.0,
+        "resilience_predator": 10.0,
+        "resilience_scavenger": 1.0,
+        "resilience_apex": 75.0,
+        "resilience_competitor": 12.0,
+        "oscillation_peak_bonus": 500,
+        "stability_bonus": 1000,
+        "extinction_risk_threshold": 10,
+        "extinction_risk_penalty": 0.1,
+        "ideal_predator_prey_ratio": 0.1,
+        "ideal_scavenger_prey_ratio": 0.05,
+        "ideal_apex_predator_ratio": 0.08,
+        "ideal_competitor_prey_ratio": 0.15
+    }
+}
